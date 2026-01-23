@@ -3549,7 +3549,7 @@
       "type": "Feature",
       "properties": {
         "name": "D107",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 60
       },
@@ -3589,7 +3589,7 @@
       "type": "Feature",
       "properties": {
         "name": "D108",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 35,
         "upperFL": 60
       },
@@ -3629,7 +3629,7 @@
       "type": "Feature",
       "properties": {
         "name": "D109",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 35,
         "upperFL": 60
       },
@@ -3665,7 +3665,7 @@
       "type": "Feature",
       "properties": {
         "name": "D110",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 210
       },
@@ -3725,7 +3725,7 @@
       "type": "Feature",
       "properties": {
         "name": "D205",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 610
       },
@@ -3761,7 +3761,7 @@
       "type": "Feature",
       "properties": {
         "name": "D206",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 610
       },
@@ -3797,7 +3797,7 @@
       "type": "Feature",
       "properties": {
         "name": "D207",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 610
       },
@@ -3833,7 +3833,7 @@
       "type": "Feature",
       "properties": {
         "name": "D208",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 610
       },
@@ -3869,7 +3869,7 @@
       "type": "Feature",
       "properties": {
         "name": "D408",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 270
       },
@@ -3909,7 +3909,7 @@
       "type": "Feature",
       "properties": {
         "name": "D409",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 460
       },
@@ -3945,7 +3945,7 @@
       "type": "Feature",
       "properties": {
         "name": "D112",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 35,
         "upperFL": 60
       },
@@ -3981,7 +3981,7 @@
       "type": "Feature",
       "properties": {
         "name": "D113",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 25,
         "upperFL": 60
       },
@@ -4017,7 +4017,7 @@
       "type": "Feature",
       "properties": {
         "name": "D114",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 35,
         "upperFL": 60
       },
@@ -4053,7 +4053,7 @@
       "type": "Feature",
       "properties": {
         "name": "D115",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 30,
         "upperFL": 60
       },
@@ -4089,7 +4089,7 @@
       "type": "Feature",
       "properties": {
         "name": "D116",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 60
       },
@@ -4125,7 +4125,7 @@
       "type": "Feature",
       "properties": {
         "name": "D117",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 55,
         "upperFL": 70
       },
@@ -4165,7 +4165,7 @@
       "type": "Feature",
       "properties": {
         "name": "D118",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 60
       },
@@ -4201,7 +4201,7 @@
       "type": "Feature",
       "properties": {
         "name": "D119",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 35,
         "upperFL": 40
       },
@@ -4241,7 +4241,7 @@
       "type": "Feature",
       "properties": {
         "name": "D120",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 70
       },
@@ -4285,7 +4285,7 @@
       "type": "Feature",
       "properties": {
         "name": "D121",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 35,
         "upperFL": 40
       },
@@ -4325,7 +4325,7 @@
       "type": "Feature",
       "properties": {
         "name": "D122",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 70
       },
@@ -4361,7 +4361,7 @@
       "type": "Feature",
       "properties": {
         "name": "D123",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 60
       },
@@ -4401,7 +4401,7 @@
       "type": "Feature",
       "properties": {
         "name": "D124",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 55,
         "upperFL": 90
       },
@@ -4461,7 +4461,7 @@
       "type": "Feature",
       "properties": {
         "name": "D125",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 55,
         "upperFL": 70
       },
@@ -4517,7 +4517,7 @@
       "type": "Feature",
       "properties": {
         "name": "D126",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 55,
         "upperFL": 70
       },
@@ -4561,7 +4561,7 @@
       "type": "Feature",
       "properties": {
         "name": "D127",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 70
       },
@@ -4605,7 +4605,7 @@
       "type": "Feature",
       "properties": {
         "name": "D128",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 60
       },
@@ -4653,7 +4653,7 @@
       "type": "Feature",
       "properties": {
         "name": "D129",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 35,
         "upperFL": 60
       },
@@ -4689,7 +4689,7 @@
       "type": "Feature",
       "properties": {
         "name": "D130",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 60
       },
@@ -4729,7 +4729,7 @@
       "type": "Feature",
       "properties": {
         "name": "D131",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 70
       },
@@ -4777,7 +4777,7 @@
       "type": "Feature",
       "properties": {
         "name": "D132",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 60
       },
@@ -4825,7 +4825,7 @@
       "type": "Feature",
       "properties": {
         "name": "D133",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 70
       },
@@ -4857,7 +4857,7 @@
       "type": "Feature",
       "properties": {
         "name": "D134",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 55,
         "upperFL": 70
       },
@@ -4897,7 +4897,7 @@
       "type": "Feature",
       "properties": {
         "name": "D135",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 55,
         "upperFL": 70
       },
@@ -4945,7 +4945,7 @@
       "type": "Feature",
       "properties": {
         "name": "D136",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 70
       },
@@ -4985,7 +4985,7 @@
       "type": "Feature",
       "properties": {
         "name": "D137",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 60
       },
@@ -5041,7 +5041,7 @@
       "type": "Feature",
       "properties": {
         "name": "D138",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 60
       },
@@ -5085,7 +5085,7 @@
       "type": "Feature",
       "properties": {
         "name": "D139",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 45,
         "upperFL": 70
       },
@@ -5133,7 +5133,7 @@
       "type": "Feature",
       "properties": {
         "name": "D140",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 35,
         "upperFL": 70
       },
@@ -5169,7 +5169,7 @@
       "type": "Feature",
       "properties": {
         "name": "D141",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 35,
         "upperFL": 70
       },
@@ -5205,7 +5205,7 @@
       "type": "Feature",
       "properties": {
         "name": "D142",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 35,
         "upperFL": 60
       },
@@ -5245,7 +5245,7 @@
       "type": "Feature",
       "properties": {
         "name": "D143",
-        "type": "D",
+        "type": "Airwork",
         "lowerFL": 30,
         "upperFL": 60
       },
@@ -5289,7 +5289,7 @@
       "type": "Feature",
       "properties": {
         "name": "D153",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 460
       },
@@ -5325,7 +5325,7 @@
       "type": "Feature",
       "properties": {
         "name": "D157",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 290
       },
@@ -5385,7 +5385,7 @@
       "type": "Feature",
       "properties": {
         "name": "D158",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 360
       },
@@ -5445,7 +5445,7 @@
       "type": "Feature",
       "properties": {
         "name": "D161",
-        "type": "D",
+        "type": "Gliding",
         "lowerFL": 135,
         "upperFL": 185
       },
@@ -5481,7 +5481,7 @@
       "type": "Feature",
       "properties": {
         "name": "D162",
-        "type": "D",
+        "type": "Gliding",
         "lowerFL": 135,
         "upperFL": 285
       },
@@ -5521,7 +5521,7 @@
       "type": "Feature",
       "properties": {
         "name": "D163",
-        "type": "D",
+        "type": "Gliding",
         "lowerFL": 135,
         "upperFL": 285
       },
@@ -5569,7 +5569,7 @@
       "type": "Feature",
       "properties": {
         "name": "D166",
-        "type": "D",
+        "type": "Gliding",
         "lowerFL": 135,
         "upperFL": 225
       },
@@ -5605,7 +5605,7 @@
       "type": "Feature",
       "properties": {
         "name": "D167",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 660
       },
@@ -5661,7 +5661,7 @@
       "type": "Feature",
       "properties": {
         "name": "D253",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 460
       },
@@ -5697,7 +5697,7 @@
       "type": "Feature",
       "properties": {
         "name": "D255",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 250
       },
@@ -5781,7 +5781,7 @@
       "type": "Feature",
       "properties": {
         "name": "D352",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 460
       },
@@ -5817,7 +5817,7 @@
       "type": "Feature",
       "properties": {
         "name": "D357",
-        "type": "D",
+        "type": "Gliding",
         "lowerFL": 115,
         "upperFL": 225
       },
@@ -5865,7 +5865,7 @@
       "type": "Feature",
       "properties": {
         "name": "D358",
-        "type": "D",
+        "type": "Gliding",
         "lowerFL": 135,
         "upperFL": 225
       },
@@ -5901,7 +5901,7 @@
       "type": "Feature",
       "properties": {
         "name": "D359",
-        "type": "D",
+        "type": "Gliding",
         "lowerFL": 85,
         "upperFL": 225
       },
@@ -5941,7 +5941,7 @@
       "type": "Feature",
       "properties": {
         "name": "D360",
-        "type": "D",
+        "type": "Gliding",
         "lowerFL": 85,
         "upperFL": 225
       },
@@ -5985,7 +5985,7 @@
       "type": "Feature",
       "properties": {
         "name": "D361",
-        "type": "D",
+        "type": "Gliding",
         "lowerFL": 0,
         "upperFL": 90
       },
@@ -6033,7 +6033,7 @@
       "type": "Feature",
       "properties": {
         "name": "D367",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 999
       },
@@ -6081,7 +6081,7 @@
       "type": "Feature",
       "properties": {
         "name": "D368",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 999
       },
@@ -6117,7 +6117,7 @@
       "type": "Feature",
       "properties": {
         "name": "D456",
-        "type": "D",
+        "type": "MIL",
         "lowerFL": 0,
         "upperFL": 460
       },
@@ -6144,42 +6144,6 @@
             [
               11.131666666666668,
               66.8
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "D471",
-        "type": "D",
-        "lowerFL": 0,
-        "upperFL": 200
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              18.84861111111111,
-              69.10555555555555
-            ],
-            [
-              19.068055555555556,
-              69.1375
-            ],
-            [
-              19.253888888888888,
-              69.06583333333333
-            ],
-            [
-              19.060277777777777,
-              69.08
-            ],
-            [
-              18.84861111111111,
-              69.10555555555555
             ]
           ]
         ]
